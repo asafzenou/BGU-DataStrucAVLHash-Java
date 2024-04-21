@@ -3,16 +3,6 @@
 Spring 2023 Introduction to Data Structures
 This project contains the practical exercise solution for an Introduction to Data Structures course held in Spring 2023. The exercise focuses on Java familiarity, hash tables, and AVL trees.
 
-Exercise Details
-Publication Date: May 21, 2023
-Submission Deadline: June 11, 2023, 23:59
-Instructor: Tomer Meirman
-Instructions:
-The exercise submission starts from the following week (May 28) and has a dedicated submission space in the course's platform.
-Only 5 submissions are allowed without grade deduction.
-Collaboration or copying from other students or online sources is prohibited.
-Usage of ChatGPT for code writing is not allowed.
-Questions regarding the exercise should be asked on the course's forum or during office hours with Tomer Meirman.
 Exercise Overview
 The exercise aims to enhance understanding of hash tables, AVL trees, and their integration into a unified and efficient data structure.
 
